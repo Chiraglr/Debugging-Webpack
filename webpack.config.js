@@ -10,7 +10,7 @@ module.exports = {
         filename: "[name].chunk.js"
     },
     plugins: [
-        new webpack.ProgressPlugin(),
+        // new webpack.ProgressPlugin(),
         /**
          * Lesson Plan Plugins
          */

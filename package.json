@@ -15,6 +15,6 @@
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack",
-    "debug": "node --inspect --debug-brk $(npm bin)/webpack --verbose"
+    "debug": "node --inspect --inspect-brk $(npm bin)/webpack --verbose"
   }
 }
